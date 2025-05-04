@@ -1,4 +1,4 @@
-package com.noelle.payment;
+package com.noelle;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
